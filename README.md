@@ -23,3 +23,11 @@ Z X C
 ### 雪の降る
 
 [魔王魂](https://maoudamashii.jokersounds.com/archives/27_yukinohuru.html)
+
+### [MiniJSON](https://gist.github.com/darktable/1411710)
+
+### [JsonNode](https://gist.github.com/asus4/7f7b5912d703f44c2711)
+
+### [unity-audio-spectrum](https://github.com/keijiro/unity-audio-spectrum)
+
+### [Unity-FadeManager](https://github.com/naichilab/Unity-FadeManager)
