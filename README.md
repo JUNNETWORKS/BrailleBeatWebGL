@@ -4,6 +4,16 @@
 
 [BrailleBeat](https://github.com/FlexiblePrintedCircuits/BrailleBeat)
 
+## Key
+
+You can play this game with these keys below
+
+```
+Q W E
+A S D
+Z X C
+```
+
 ## Song Credits
 
 ### 君が代
