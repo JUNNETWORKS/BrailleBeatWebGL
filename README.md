@@ -24,7 +24,7 @@ Z X C
 
 [魔王魂](https://maoudamashii.jokersounds.com/archives/27_yukinohuru.html)
 
-#### 使用ライブラリ
+## 使用ライブラリ
 
 ### [MiniJSON](https://gist.github.com/darktable/1411710)
 
